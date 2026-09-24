@@ -1,0 +1,25 @@
+# Java 编译产物
+out/
+target/
+*.class
+*.jar
+*.war
+
+# 日志与临时文件
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 本地配置与凭据
+.env
+.env.*
+*.pem
+*.key
